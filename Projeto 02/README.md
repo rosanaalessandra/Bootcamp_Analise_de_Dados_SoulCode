@@ -1,2 +1,13 @@
-# Bootcamp_Analise_de_Dados_SoulCode
-Atividades e Projetos realizados no Bootcamp de Analista de Dados SoulCode Acadamy
+# **Projeto - Fundamentos de Python**
+
+Escola: SoulCode Academy
+
+Curso: Bootcamp Analista de Dados - Martech - AD2
+
+Período: Semana 4
+
+Professor: Franciane Rodrigues e Douglas Ribeiro
+
+Aluno: Diego Aguiar
+
+
