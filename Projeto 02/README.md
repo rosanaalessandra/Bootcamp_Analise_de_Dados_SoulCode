@@ -31,7 +31,7 @@ Neste projeto o estudante deverá individualmente construir um script em Python 
 * Coeficiente a ou alpha da equação de regressão linear simples para as duas variáveis escolhidas pelo usuário;
 * Coeficiente b ou beta da equação de regressão linear simples para as duas variáveis escolhidas pelo usuário;
 
-Requisitos obrigatórios:
+**Requisitos obrigatórios:**
 
 * O programa deve conter todas as medidas de estatística descritiva solicitadas no bloco anterior;
 * O Programa deve conter no mínimo as seguintes estruturas:
@@ -40,7 +40,7 @@ Requisitos obrigatórios:
   * 01 - (loop While);
   * O programa não pode incorporar módulos e frameworks não estudados até o presente momento no bootcamp.
 
-Requisitos não obrigatórios (opcionais):
+**Requisitos não obrigatórios (opcionais):**
 
 * Tratamentos de erros para entradas dos usuários;
 * Quaisquer outras melhorias de código que não sejam contrárias aos requisitos obrigatórios.
