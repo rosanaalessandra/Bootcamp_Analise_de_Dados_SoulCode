@@ -75,3 +75,7 @@ Analistas: * Aska Pereira
 Link para o dashboard no PowerBi:
 
  * https://app.powerbi.com/view?r=eyJrIjoiYTJkNTBlZWQtNGEzNC00NjE0LWIwMmUtMmY5NWU0MmFmYzU2IiwidCI6IjI2MThhOTIwLTEzYTMtNDY4OS05M2Y1LThiYzA2ZjAyN2M1MCJ9
+
+Link  ETL Colab:
+
+ * https://colab.research.google.com/drive/1V1Pk1XoAJkNqbi2C6FpSYHv5Aa8CBhQk?usp=sharing
