@@ -8,7 +8,24 @@ Período: Semana 12
 
 Professor: Franciane Rodrigues e Douglas Ribeiro
 
-Aluno: Diego Aguiar
+Analistas: * Aska Pereira
+           * Anderson Melo
+           * Diego Aguiar
+           *Jessica Staudt
+           * Rosana Santos
+           * Pedro Barrionovo
+
+
+
+
+
+## **TEMA: MERCADO DE TRABALHO**
+
+![image](https://github.com/rosanaalessandra/Bootcamp_Analise_de_Dados_SoulCode/assets/126611257/987bf208-2618-48c5-89c5-e28a3408187c)
+
+
+
+       
 
 ## **Escopo do Projeto**
 
@@ -54,4 +71,7 @@ Aluno: Diego Aguiar
 * E deve ser demonstrado em um workflow simples (gráfico) as etapas de ETL com suas respectivas ferramentas.
 * Fazer a documentação do projeto;
 
-**TEMA: MERCADO DE TRABALHO**
+
+Link para o dashboard no PowerBi:
+
+ * https://app.powerbi.com/view?r=eyJrIjoiYTJkNTBlZWQtNGEzNC00NjE0LWIwMmUtMmY5NWU0MmFmYzU2IiwidCI6IjI2MThhOTIwLTEzYTMtNDY4OS05M2Y1LThiYzA2ZjAyN2M1MCJ9
